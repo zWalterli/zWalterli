@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zwalterli&label=Profile%20views&color=0e75b6&style=flat" alt="zwalterli" /> </p>
 
-- 🔭 I’m currently working on [Everis](https://www.everis.com/)
+- 🔭 I’m currently working on [NTT Data](https://nttdata.com/)
 
 - 🌱 I’m currently learning **DevOps**
 
