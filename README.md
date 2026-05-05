@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zwalterli&label=Profile%20views&color=0e75b6&style=flat" alt="zwalterli" /> </p>
 
-- 🔭 I’m currently working on [Banco Master]([https://www.localiza.com/])
+- 🔭 I’m currently working on [Ubistart](https://ubistart.com/)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/walterli-valadares-j%c3%banior-39807a165/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/walterli-valadares-j%c3%banior-39807a165/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/walter/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/walter/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/walter/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/walterli_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
